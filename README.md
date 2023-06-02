@@ -76,6 +76,9 @@ Finally, we discuss the potential benefits of using ACRM in analyzed projects, p
 
 <img width="26" alt="dl" src="https://user-images.githubusercontent.com/104186731/168603749-1422d6db-921f-4976-8b95-5f77ca20bc5f.png"> 
 [Spearman rank correlation between the location weights of classes in reference models and architectural smells or bugs.xlsx](https://github.com/ACRMsc/ACRMsc.github.io/files/10895074/Spearman.rank.correlation.between.the.location.weights.of.classes.in.reference.models.and.architectural.smells.or.bugs.xlsx)
+<img width="26" alt="dl" src="https://user-images.githubusercontent.com/104186731/168603749-1422d6db-921f-4976-8b95-5f77ca20bc5f.png"> 
+[The analysis results for move refactoring operations of peripheral developers.xlsx](https://github.com/ACRMsc/ACRMsc.github.io/files/11632909/The.analysis.results.for.move.refactoring.operations.of.peripheral.developers.xlsx)
+
 
 ### Qualitative evaluation
 
@@ -86,6 +89,7 @@ Finally, we discuss the potential benefits of using ACRM in analyzed projects, p
 
 <img width="26" alt="dl" src="https://user-images.githubusercontent.com/104186731/168603749-1422d6db-921f-4976-8b95-5f77ca20bc5f.png">
 [wc2c_cvg results.xlsx](https://github.com/ACRMsc/ACRMsc.github.io/files/10895084/wc2c_cvg.results.xlsx)
-
+<img width="26" alt="dl" src="https://user-images.githubusercontent.com/104186731/168603749-1422d6db-921f-4976-8b95-5f77ca20bc5f.png">
+[c2c_cvg.results.xlsx](https://github.com/ACRMsc/ACRMsc.github.io/files/11632885/c2c_cvg.results.xlsx)
 
 
