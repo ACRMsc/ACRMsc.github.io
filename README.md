@@ -1,4 +1,4 @@
-## [ACRM]
+## ACRM
 
 [ACRM (Tool)](https://github.com/ACRMsc/ACRMsc.github.io)
 
