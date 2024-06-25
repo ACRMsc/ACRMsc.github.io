@@ -1,7 +1,3 @@
-## ACRM
-
-[ACRM (Tool)](https://github.com/ACRMsc/ACRMsc.github.io)
-
 ## Introduction 
 
 The undocumented evolution of a software project and its underlying architecture underscores the need to recover the architecture from the software's implementation-level artifacts. 
